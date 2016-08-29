@@ -4,6 +4,9 @@ title:  "This is a test"
 date:   2016-05-28 20:43:33 +0800
 categories: personal
 ---
+
+ruby code
+
 {% highlight ruby %}
 def show
   @widget = Widget(params[:id])
